@@ -21,6 +21,10 @@ body {
 	background: none;
 }
 
+.displayToggle{
+     display: none;
+}
+
 .jumbotron:after {
      content:"";
      background: url("../images/lorempixel.jumbotron.jpeg");
